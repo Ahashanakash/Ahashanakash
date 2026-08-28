@@ -5,7 +5,7 @@
 
 - 📖 I’m currently Studying on **Computer Science and Engineering**
 
-- 🌱 I’m currently learning **Python, Django**
+- 🌱 I’m currently learning **Fastapi, linux**
 
 - 💬 Ask me about **C++, Data Stucture and Algorithm**
 
