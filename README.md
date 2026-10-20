@@ -45,7 +45,9 @@
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
 </a>
-   
+  <a href="https://commons.wikimedia.org/wiki/File:React-icon.svg" target="_blank" rel="noreferrer">
+    <img src="[https://cdn.worldvectorlogo.com/logos/django.svg](https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/3840px-React-icon.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail)" alt="django" width="40" height="40"/>
+</a>
 </p>
 
 
